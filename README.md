@@ -26,9 +26,6 @@ I am a Full Stack Web Developer passionate about Product and Design. I'm continu
 <br />
 <br />
 <br />
-<p align="left">
-     <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demstar16&theme=transparent">
-</p>
 # 
 
 ---
