@@ -35,5 +35,4 @@ I am a Full Stack Web Developer passionate about Product and Design. I'm continu
   
 
 - 🌱 I’m currently looking for work
-- 👯 I’m looking to collaborate 
--->
+
