@@ -22,9 +22,5 @@ I am a Full Stack Web Developer passionate about Product and Design. I'm continu
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  />
 <img align="left" alt="AWS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<br />
-<br />
 
-
-- 🌱 I’m currently looking for work
 
