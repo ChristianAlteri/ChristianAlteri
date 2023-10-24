@@ -25,7 +25,7 @@ I am a Full Stack Web Developer passionate about Product and Design. I'm continu
 
 
 <!-- LeetCode -->
-<a href="https://leetcode.com/ChristianAlteri/" title="LeetCode">LeetCode Grind</a>
+<a href="https://leetcode.com/ChristianAlteri/" title="LeetCode">LeetCode</a>
 
 
 
